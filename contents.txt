@@ -1,0 +1,1751 @@
+
+languagebank\english\textfiles\guru-wordcount.ini
+languagebank\english\textfiles\guru-words.txt
+languagebank\english\inittext.ssp
+audiobank\misc\silence.wav
+audiobank\misc\explode.wav
+audiobank\misc\ammo.wav
+audiobank\misc\bullet_flyby_01.wav
+audiobank\misc\bullet_flyby_02.wav
+audiobank\misc\bullet_flyby_03.wav
+audiobank\misc\bullet_flyby_04.wav
+editors\gfx\14.png
+editors\gfx\14-white.png
+editors\gfx\14-red.png
+editors\gfx\14-green.png
+editors\gfx\dummy.png
+editors\keymap\default.ini
+editors\keymap\weaponslots.dat
+editors\templates\screeneditor\project.dat
+scriptbank\gameloop.lua
+scriptbank\gameplayercontrol.lua
+scriptbank\gameplayerhealth.lua
+scriptbank\global.lua
+languagebank\english\artwork\watermark\watermark.jpg
+scriptbank\people\patrol.byc
+scriptbank\people\patrol.lua
+scriptbank\ai\module_cameraoverride.lua
+scriptbank\ai\module_cameraoverride.png
+scriptbank\ai\module_cameraoverride2.png
+audiobank\materials\materialdefault.txt
+scriptbank\perlin_noise.lua
+scriptbank\hud0.lua
+scriptbank\utillib.lua
+scriptbank\huds\cursorcontrol.lua
+scriptbank\gameplayerspeed.lua
+audiobank\materials\dirt\sfx_footstep_run_dirt_left_1.wav
+audiobank\materials\dirt\sfx_footstep_run_dirt_left_2.wav
+audiobank\materials\dirt\sfx_footstep_run_dirt_left_3.wav
+audiobank\materials\dirt\sfx_footstep_run_dirt_right_1.wav
+audiobank\materials\dirt\sfx_footstep_run_dirt_right_2.wav
+audiobank\materials\dirt\sfx_footstep_run_dirt_right_3.wav
+audiobank\materials\dirt\sfx_footstep_walk_dirt_left_1.wav
+audiobank\materials\dirt\sfx_footstep_walk_dirt_left_2.wav
+audiobank\materials\dirt\sfx_footstep_walk_dirt_left_3.wav
+audiobank\materials\dirt\sfx_footstep_walk_dirt_right_1.wav
+audiobank\materials\dirt\sfx_footstep_walk_dirt_right_2.wav
+audiobank\materials\dirt\sfx_footstep_walk_dirt_right_3.wav
+audiobank\materials\dirt\sfx_hard_land_dirt_1.wav
+audiobank\materials\dirt\sfx_hard_land_dirt_2.wav
+audiobank\materials\dirt\sfx_light_land_dirt_1.wav
+audiobank\materials\dirt\sfx_light_land_dirt_2.wav
+audiobank\materials\grass\sfx_footstep_run_grass_left_1.wav
+audiobank\materials\grass\sfx_footstep_run_grass_left_2.wav
+audiobank\materials\grass\sfx_footstep_run_grass_left_3.wav
+audiobank\materials\grass\sfx_footstep_run_grass_right_1.wav
+audiobank\materials\grass\sfx_footstep_run_grass_right_2.wav
+audiobank\materials\grass\sfx_footstep_run_grass_right_3.wav
+audiobank\materials\grass\sfx_footstep_walk_grass_left_1.wav
+audiobank\materials\grass\sfx_footstep_walk_grass_left_2.wav
+audiobank\materials\grass\sfx_footstep_walk_grass_left_3.wav
+audiobank\materials\grass\sfx_footstep_walk_grass_right_1.wav
+audiobank\materials\grass\sfx_footstep_walk_grass_right_2.wav
+audiobank\materials\grass\sfx_footstep_walk_grass_right_3.wav
+audiobank\materials\grass\sfx_light_land_grass_1.wav
+audiobank\materials\grass\sfx_light_land_grass_2.wav
+audiobank\materials\grass\extras\sfx_footstep_run_high_grass_left_1.wav
+audiobank\materials\grass\extras\sfx_footstep_run_high_grass_left_2.wav
+audiobank\materials\grass\extras\sfx_footstep_run_high_grass_left_3.wav
+audiobank\materials\grass\extras\sfx_footstep_run_high_grass_right_1.wav
+audiobank\materials\grass\extras\sfx_footstep_run_high_grass_right_2.wav
+audiobank\materials\grass\extras\sfx_footstep_run_high_grass_right_3.wav
+audiobank\materials\grass\extras\sfx_footstep_walk_grass2_left_1.wav
+audiobank\materials\grass\extras\sfx_footstep_walk_grass2_left_2.wav
+audiobank\materials\grass\extras\sfx_footstep_walk_grass2_left_3.wav
+audiobank\materials\grass\extras\sfx_footstep_walk_grass2_right_1.wav
+audiobank\materials\grass\extras\sfx_footstep_walk_grass2_right_2.wav
+audiobank\materials\grass\extras\sfx_footstep_walk_grass2_right_3.wav
+audiobank\materials\gravel\sfx_footstep_run_gravel_left_1.wav
+audiobank\materials\gravel\sfx_footstep_run_gravel_left_2.wav
+audiobank\materials\gravel\sfx_footstep_run_gravel_left_3.wav
+audiobank\materials\gravel\sfx_footstep_run_gravel_right_1.wav
+audiobank\materials\gravel\sfx_footstep_run_gravel_right_2.wav
+audiobank\materials\gravel\sfx_footstep_run_gravel_right_3.wav
+audiobank\materials\gravel\sfx_footstep_walk_gravel_left_1.wav
+audiobank\materials\gravel\sfx_footstep_walk_gravel_left_2.wav
+audiobank\materials\gravel\sfx_footstep_walk_gravel_left_3.wav
+audiobank\materials\gravel\sfx_footstep_walk_gravel_right_1.wav
+audiobank\materials\gravel\sfx_footstep_walk_gravel_right_2.wav
+audiobank\materials\gravel\sfx_footstep_walk_gravel_right_3.wav
+audiobank\materials\gravel\sfx_hard_land_grass_1.wav
+audiobank\materials\gravel\sfx_hard_land_grass_2.wav
+audiobank\materials\gravel\sfx_hard_land_gravel_1.wav
+audiobank\materials\gravel\sfx_hard_land_gravel_2.wav
+audiobank\materials\gravel\sfx_light_land_gravel_1.wav
+audiobank\materials\gravel\sfx_light_land_gravel_2.wav
+audiobank\materials\metal\sfx_footstep_run_metal_left_1.wav
+audiobank\materials\metal\sfx_footstep_run_metal_left_2.wav
+audiobank\materials\metal\sfx_footstep_run_metal_left_3.wav
+audiobank\materials\metal\sfx_footstep_run_metal_right_1.wav
+audiobank\materials\metal\sfx_footstep_run_metal_right_2.wav
+audiobank\materials\metal\sfx_footstep_run_metal_right_3.wav
+audiobank\materials\metal\sfx_footstep_walk_metal_left_1.wav
+audiobank\materials\metal\sfx_footstep_walk_metal_left_2.wav
+audiobank\materials\metal\sfx_footstep_walk_metal_left_3.wav
+audiobank\materials\metal\sfx_footstep_walk_metal_right_1.wav
+audiobank\materials\metal\sfx_footstep_walk_metal_right_2.wav
+audiobank\materials\metal\sfx_footstep_walk_metal_right_3.wav
+audiobank\materials\metal\sfx_hard_land_metal_1.wav
+audiobank\materials\metal\sfx_hard_land_metal_2.wav
+audiobank\materials\metal\sfx_light_land_metal_1.wav
+audiobank\materials\metal\sfx_light_land_metal_2.wav
+audiobank\materials\puddle\sfx_footstep_run_puddle_left_1.wav
+audiobank\materials\puddle\sfx_footstep_run_puddle_left_2.wav
+audiobank\materials\puddle\sfx_footstep_run_puddle_left_3.wav
+audiobank\materials\puddle\sfx_footstep_run_puddle_right_1.wav
+audiobank\materials\puddle\sfx_footstep_run_puddle_right_2.wav
+audiobank\materials\puddle\sfx_footstep_run_puddle_right_3.wav
+audiobank\materials\puddle\sfx_footstep_walk_puddle_left_1.wav
+audiobank\materials\puddle\sfx_footstep_walk_puddle_left_2.wav
+audiobank\materials\puddle\sfx_footstep_walk_puddle_left_3.wav
+audiobank\materials\puddle\sfx_footstep_walk_puddle_right_1.wav
+audiobank\materials\puddle\sfx_footstep_walk_puddle_right_2.wav
+audiobank\materials\puddle\sfx_footstep_walk_puddle_right_3.wav
+audiobank\materials\puddle\sfx_hard_land_puddle_1.wav
+audiobank\materials\puddle\sfx_light_land_puddle_1.wav
+audiobank\materials\sand\sfx_footstep_run_sand_left_1.wav
+audiobank\materials\sand\sfx_footstep_run_sand_left_2.wav
+audiobank\materials\sand\sfx_footstep_run_sand_left_3.wav
+audiobank\materials\sand\sfx_footstep_run_sand_right_1.wav
+audiobank\materials\sand\sfx_footstep_run_sand_right_2.wav
+audiobank\materials\sand\sfx_footstep_run_sand_right_3.wav
+audiobank\materials\sand\sfx_footstep_walk_sand_left_1.wav
+audiobank\materials\sand\sfx_footstep_walk_sand_left_2.wav
+audiobank\materials\sand\sfx_footstep_walk_sand_left_3.wav
+audiobank\materials\sand\sfx_footstep_walk_sand_right_1.wav
+audiobank\materials\sand\sfx_footstep_walk_sand_right_2.wav
+audiobank\materials\sand\sfx_footstep_walk_sand_right_3.wav
+audiobank\materials\sand\sfx_hard_land_sand_1.wav
+audiobank\materials\sand\sfx_hard_land_sand_2.wav
+audiobank\materials\sand\sfx_light_land_sand_1.wav
+audiobank\materials\sand\sfx_light_land_sand_2.wav
+audiobank\materials\snow\sfx_footstep_run_snow_left_1.wav
+audiobank\materials\snow\sfx_footstep_run_snow_left_2.wav
+audiobank\materials\snow\sfx_footstep_run_snow_left_3.wav
+audiobank\materials\snow\sfx_footstep_run_snow_right_1.wav
+audiobank\materials\snow\sfx_footstep_run_snow_right_2.wav
+audiobank\materials\snow\sfx_footstep_run_snow_right_3.wav
+audiobank\materials\snow\sfx_footstep_walk_snow1_left_1.wav
+audiobank\materials\snow\sfx_footstep_walk_snow1_left_2.wav
+audiobank\materials\snow\sfx_footstep_walk_snow1_left_3.wav
+audiobank\materials\snow\sfx_footstep_walk_snow1_right_1.wav
+audiobank\materials\snow\sfx_footstep_walk_snow1_right_2.wav
+audiobank\materials\snow\sfx_footstep_walk_snow1_right_3.wav
+audiobank\materials\snow\sfx_footstep_walk_snow2_left_1.wav
+audiobank\materials\snow\sfx_footstep_walk_snow2_left_2.wav
+audiobank\materials\snow\sfx_footstep_walk_snow2_left_3.wav
+audiobank\materials\snow\sfx_footstep_walk_snow2_right_1.wav
+audiobank\materials\snow\sfx_footstep_walk_snow2_right_2.wav
+audiobank\materials\snow\sfx_footstep_walk_snow2_right_3.wav
+audiobank\materials\snow\sfx_hard_land_snow_1.wav
+audiobank\materials\snow\sfx_hard_land_snow_2.wav
+audiobank\materials\snow\sfx_light_land_snow_1.wav
+audiobank\materials\snow\sfx_light_land_snow_2.wav
+audiobank\materials\underwater\sfx_footstep_run_underwater_left_1.wav
+audiobank\materials\underwater\sfx_footstep_run_underwater_left_2.wav
+audiobank\materials\underwater\sfx_footstep_run_underwater_left_3.wav
+audiobank\materials\underwater\sfx_footstep_run_underwater_right_1.wav
+audiobank\materials\underwater\sfx_footstep_run_underwater_right_2.wav
+audiobank\materials\underwater\sfx_footstep_run_underwater_right_3.wav
+audiobank\materials\underwater\sfx_footstep_walk_underwater_left_1.wav
+audiobank\materials\underwater\sfx_footstep_walk_underwater_left_2.wav
+audiobank\materials\underwater\sfx_footstep_walk_underwater_left_3.wav
+audiobank\materials\underwater\sfx_footstep_walk_underwater_right_1.wav
+audiobank\materials\underwater\sfx_footstep_walk_underwater_right_2.wav
+audiobank\materials\underwater\sfx_footstep_walk_underwater_right_3.wav
+audiobank\materials\underwater\sfx_hard_land_underwater_1.wav
+audiobank\materials\underwater\sfx_hard_land_underwater_2.wav
+audiobank\materials\underwater\sfx_light_land_underwater_1.wav
+audiobank\materials\underwater\sfx_light_land_underwater_2.wav
+audiobank\materials\wood\sfx_footstep_run_wood_left_1.wav
+audiobank\materials\wood\sfx_footstep_run_wood_left_2.wav
+audiobank\materials\wood\sfx_footstep_run_wood_left_3.wav
+audiobank\materials\wood\sfx_footstep_run_wood_right_1.wav
+audiobank\materials\wood\sfx_footstep_run_wood_right_2.wav
+audiobank\materials\wood\sfx_footstep_run_wood_right_3.wav
+audiobank\materials\wood\sfx_footstep_walk_wood_left_1.wav
+audiobank\materials\wood\sfx_footstep_walk_wood_left_2.wav
+audiobank\materials\wood\sfx_footstep_walk_wood_left_3.wav
+audiobank\materials\wood\sfx_footstep_walk_wood_right_1.wav
+audiobank\materials\wood\sfx_footstep_walk_wood_right_2.wav
+audiobank\materials\wood\sfx_footstep_walk_wood_right_3.wav
+audiobank\materials\wood\sfx_hard_land_wood_1.wav
+audiobank\materials\wood\sfx_hard_land_wood_2.wav
+audiobank\materials\wood\sfx_light_land_wood_1.wav
+audiobank\materials\wood\sfx_light_land_wood_2.wav
+audiobank\voices\player\player_breath_hold.wav
+audiobank\voices\player\player_breath_out.wav
+audiobank\voices\player\player_breath_out_fast.wav
+audiobank\voices\player\player_drown.wav
+audiobank\voices\player\player_gasp_for_air.wav
+audiobank\voices\player\player_hard_land.wav
+audiobank\voices\player\player_heartbeat.wav
+audiobank\voices\player\player_jetpack.wav
+audiobank\voices\player\player_leap.wav
+audiobank\voices\player\player_reactions_bite_1.wav
+audiobank\voices\player\player_reactions_bite_2.wav
+audiobank\voices\player\player_reactions_bite_3.wav
+audiobank\voices\player\player_reactions_bite_4.wav
+audiobank\voices\player\player_reactions_bite_5.wav
+audiobank\voices\player\player_reactions_bite_6.wav
+audiobank\voices\player\player_reactions_slap_1.wav
+audiobank\voices\player\player_reactions_slap_2.wav
+audiobank\voices\player\player_reactions_slap_3.wav
+audiobank\voices\player\player_reactions_slap_4.wav
+audiobank\voices\player\player_reactions_slap_5.wav
+audiobank\voices\player\player_spawn.wav
+audiobank\voices\player\player_swim.wav
+audiobank\voices\player\player_swim_1.wav
+audiobank\voices\player\player_swim_2.wav
+audiobank\voices\player\player_swim_3.wav
+audiobank\voices\player\player_swim_4.wav
+audiobank\voices\player\player_swim_underwater_1.wav
+audiobank\voices\player\player_swim_underwater_2.wav
+audiobank\voices\player\player_swim_underwater_3.wav
+audiobank\voices\player\player_swim_underwater_4.wav
+audiobank\voices\player\player_underwater.wav
+audiobank\voices\player\player_voice_hit_1.wav
+audiobank\voices\player\player_voice_hit_10.wav
+audiobank\voices\player\player_voice_hit_11.wav
+audiobank\voices\player\player_voice_hit_2.wav
+audiobank\voices\player\player_voice_hit_3.wav
+audiobank\voices\player\player_voice_hit_4.wav
+audiobank\voices\player\player_voice_hit_5.wav
+audiobank\voices\player\player_voice_hit_6.wav
+audiobank\voices\player\player_voice_hit_7.wav
+audiobank\voices\player\player_voice_hit_8.wav
+audiobank\voices\player\player_voice_hit_9.wav
+audiobank\voices\player\player_water_in.wav
+audiobank\voices\player\player_water_out.wav
+audiobank\voices\player\silent.wav
+databank\arrowdown.png
+databank\arrowup.png
+databank\blip1.png
+databank\blip2.png
+databank\blip3.png
+databank\blip4.png
+databank\bloodsplash1.png
+databank\bloodsplash2.png
+databank\bloodsplash3.png
+databank\bloodsplash4.png
+databank\bloodsplash5.png
+databank\bloodsplash6.png
+databank\bloodsplash7.png
+databank\bloodsplash8.png
+databank\compass.png
+databank\indicator.png
+databank\needle.png
+databank\objective.png
+databank\radarback.png
+titlesbank\cursorcontrol.lua
+titlesbank\fillgameslots.lua
+titlesbank\gamedata.lua
+titlesbank\resolutions.lua
+titlesbank\restoregame.lua
+titlesbank\style.txt
+titlesbank\default\about-hover.png
+titlesbank\default\about.lua
+titlesbank\default\about.png
+titlesbank\default\back-hover.png
+titlesbank\default\back.png
+titlesbank\default\blank-hover.png
+titlesbank\default\blank.png
+titlesbank\default\continue-hover.png
+titlesbank\default\continue.png
+titlesbank\default\controls.lua
+titlesbank\default\cursor-33.png
+titlesbank\default\cursor-big.png
+titlesbank\default\cursor.png
+titlesbank\default\custom.lua
+titlesbank\default\exit-to-desktop-hover.png
+titlesbank\default\exit-to-desktop.png
+titlesbank\default\fov.png
+titlesbank\default\game-paused-title.png
+titlesbank\default\game-won-title.png
+titlesbank\default\gamemenu.lua
+titlesbank\default\graphics-settings-hover.png
+titlesbank\default\graphics-settings-title.png
+titlesbank\default\graphics-settings.png
+titlesbank\default\graphics.lua
+titlesbank\default\high-hover.png
+titlesbank\default\high-selected.png
+titlesbank\default\high.png
+titlesbank\default\highest-hover.png
+titlesbank\default\highest-selected.png
+titlesbank\default\highest.png
+titlesbank\default\hud.lua
+titlesbank\default\level-complete-title.png
+titlesbank\default\load-game-hover.png
+titlesbank\default\load-game.png
+titlesbank\default\loadgame.lua
+titlesbank\default\loading-bar-empty.png
+titlesbank\default\loading-bar-full.png
+titlesbank\default\loading-dot.png
+titlesbank\default\loading-text.png
+titlesbank\default\loading.lua
+titlesbank\default\lose.lua
+titlesbank\default\low-hover.png
+titlesbank\default\low-selected.png
+titlesbank\default\low.png
+titlesbank\default\lowest-hover.png
+titlesbank\default\lowest-selected.png
+titlesbank\default\lowest.png
+titlesbank\default\main-menu-hover.png
+titlesbank\default\main-menu.png
+titlesbank\default\medium-hover.png
+titlesbank\default\medium-selected.png
+titlesbank\default\medium.png
+titlesbank\default\music-label.png
+titlesbank\default\nextlevel.lua
+titlesbank\default\quit-game-hover.png
+titlesbank\default\quit-game.png
+titlesbank\default\resume-game-hover.png
+titlesbank\default\resume-game.png
+titlesbank\default\return-to-desktop.png
+titlesbank\default\return-to-desktop_hover.png
+titlesbank\default\save-game-hover.png
+titlesbank\default\save-game.png
+titlesbank\default\savegame.lua
+titlesbank\default\slider-bar-dot.png
+titlesbank\default\slider-bar-empty.png
+titlesbank\default\slider-bar-full.png
+titlesbank\default\sound-effects-label.png
+titlesbank\default\sound-levels-hover.png
+titlesbank\default\sound-levels-title.png
+titlesbank\default\sound-levels.png
+titlesbank\default\sounds.lua
+titlesbank\default\start-hover.png
+titlesbank\default\start.png
+titlesbank\default\title.lua
+titlesbank\default\title.ogg
+titlesbank\default\visit-reloaded-website.png
+titlesbank\default\visit-reloaded-website_hover.png
+titlesbank\default\visit-website-hover.png
+titlesbank\default\visit-website.png
+titlesbank\default\win.lua
+titlesbank\default\1280x720\about.png
+titlesbank\default\1280x720\end.png
+titlesbank\default\1280x720\loading.png
+titlesbank\default\1280x720\lost.png
+titlesbank\default\1280x720\title.png
+titlesbank\default\1280x800\about.png
+titlesbank\default\1280x800\end.png
+titlesbank\default\1280x800\loading.png
+titlesbank\default\1280x800\lost.png
+titlesbank\default\1280x800\title.png
+titlesbank\default\1366x768\about.png
+titlesbank\default\1366x768\end.png
+titlesbank\default\1366x768\loading.png
+titlesbank\default\1366x768\lost.png
+titlesbank\default\1366x768\title.png
+titlesbank\default\1440x900\about.png
+titlesbank\default\1440x900\end.png
+titlesbank\default\1440x900\loading.png
+titlesbank\default\1440x900\lost.png
+titlesbank\default\1440x900\title.png
+titlesbank\default\1600x900\about.png
+titlesbank\default\1600x900\end.png
+titlesbank\default\1600x900\loading.png
+titlesbank\default\1600x900\lost.png
+titlesbank\default\1600x900\title.png
+titlesbank\default\1680x1050\about.png
+titlesbank\default\1680x1050\end.png
+titlesbank\default\1680x1050\loading.png
+titlesbank\default\1680x1050\lost.png
+titlesbank\default\1680x1050\title.png
+titlesbank\default\1920x1080\about.png
+titlesbank\default\1920x1080\end.png
+titlesbank\default\1920x1080\loading.png
+titlesbank\default\1920x1080\lost.png
+titlesbank\default\1920x1080\title.png
+titlesbank\default\1920x1200\about.png
+titlesbank\default\1920x1200\end.png
+titlesbank\default\1920x1200\loading.png
+titlesbank\default\1920x1200\lost.png
+titlesbank\default\1920x1200\title.png
+effectbank\explosion\animatedspark.dds
+effectbank\particles\64smoke2.dds
+effectbank\particles\flame.dds
+effectbank\particles\flare.dds
+effectbank\particles\flare.png
+effectbank\particles\flowerpuff.dds
+effectbank\particles\flowerpuff.png
+effectbank\particles\weather\rain-particle.png
+effectbank\particles\weather\rain-particle2.png
+effectbank\particles\weather\snow1.png
+effectbank\particles\weather\snow2.png
+lensflares\flare0.jpg
+lensflares\flare1.jpg
+lensflares\flare2.jpg
+lensflares\flare3.jpg
+lensflares\flare4.jpg
+lensflares\flare5.jpg
+lensflares\flare6.jpg
+fontbank\fpscr-font-128px-subimages.fnt
+fontbank\fpscr-font-128px.png
+fontbank\fpscr-font-12px.png
+fontbank\fpscr-font-24px-subimages.fnt
+fontbank\fpscr-font-24px.png
+fontbank\fpscr-font-25px-subimages.fnt
+fontbank\fpscr-font-25px.png
+fontbank\fpscr-font-36px-multiplayer-subimages.fnt
+fontbank\fpscr-font-36px-multiplayer.png
+fontbank\fpscr-font-36px-subimages.fnt
+fontbank\fpscr-font-36px.png
+fontbank\fpscr-font-40px-subimages.fnt
+fontbank\fpscr-font-40px.png
+fontbank\fpscr-font-72px-subimages.fnt
+fontbank\fpscr-font-72px.png
+fontbank\fpscr-font-outline72-subimages.fnt
+fontbank\fpscr-font-outline72.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-health-panel.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-assault.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-bow.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-grenade.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-handgun.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-infinity.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-knife.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-none.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-riffle.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-rpg.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-shotgun.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-staff.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-stone.png
+languagebank\neutral\gamecore\huds\ammohealth\fantasy-bar.png
+languagebank\neutral\gamecore\huds\ammohealth\health-icon.png
+languagebank\neutral\gamecore\huds\ammohealth\horizontal-line.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-assault.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-bow.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-colt.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-grenade.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-knife.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-mace.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-magnum.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-riffle.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-rpg.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-shotgun.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-staff.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-stone.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-sword.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-uzi.png
+languagebank\neutral\gamecore\huds\ammohealth\lives-icon.png
+languagebank\neutral\gamecore\huds\ammohealth\vertical-line.png
+gamecore\decals\bloodsplat\decal.dds
+gamecore\decals\bloodsplat\decalspec.txt
+gamecore\decals\bloodsplat\readme.txt
+gamecore\decals\impact\decal.dds
+gamecore\decals\impact\decal.png
+gamecore\decals\impact\decalspec.txt
+gamecore\decals\gunsmoke\decal.dds
+gamecore\decals\gunsmoke\decalspec.txt
+gamecore\decals\smoke1\decal.dds
+gamecore\decals\smoke1\decalspec.txt
+gamecore\decals\muzzleflash4\decal.dds
+gamecore\decals\muzzleflash4\decal.png
+gamecore\decals\muzzleflash4\decalspec.txt
+gamecore\decals\splash_droplets\decal.dds
+gamecore\decals\splash_droplets\decalspec.txt
+gamecore\decals\splash_foam\decal.dds
+gamecore\decals\splash_foam\decalspec.txt
+gamecore\decals\splash_large\decal.dds
+gamecore\decals\splash_large\decal.png
+gamecore\decals\splash_large\decalspec.txt
+gamecore\decals\splash_large\info.txt
+gamecore\decals\splash_misty\decal.dds
+gamecore\decals\splash_misty\decal.png
+gamecore\decals\splash_misty\decalspec.txt
+gamecore\decals\splash_ripple\decal.dds
+gamecore\decals\splash_ripple\decalspec.txt
+gamecore\decals\splash_ripple\ripple4x4_n.dds
+gamecore\decals\splash_small\decal.dds
+gamecore\decals\splash_small\decal.png
+gamecore\decals\splash_small\decalspec.txt
+gamecore\vrcontroller\vrcontrollerleft.dbo
+gamecore\vrcontroller\vrcontrollerright.dbo
+gamecore\vrcontroller\vrcontroller_color.png
+gamecore\vrcontroller\vrcontroller_gloss.png
+gamecore\vrcontroller\vrcontroller_metalness.png
+gamecore\vrcontroller\vrcontroller_normal.png
+gamecore\vrcontroller\vrcontroller_surface.dds
+gamecore\vrcontroller\oculus\controller_bc.png
+gamecore\vrcontroller\oculus\controller_l.dbo
+gamecore\vrcontroller\oculus\controller_r.dbo
+gamecore\projectiletypes\tracerparticle.dbo
+gamecore\projectiletypes\common\explode\a.dds
+gamecore\projectiletypes\common\explode\b.dds
+gamecore\projectiletypes\common\explode\c.dds
+gamecore\projectiletypes\common\explode\explode.txt
+gamecore\projectiletypes\common\explode\instantexplode.wav
+gamecore\projectiletypes\enhanced\m67\a.dds
+gamecore\projectiletypes\enhanced\m67\b.dds
+gamecore\projectiletypes\enhanced\m67\c.dds
+gamecore\projectiletypes\enhanced\m67\handgrenadeexplode.wav
+gamecore\projectiletypes\enhanced\m67\handgrenadefallhard.wav
+gamecore\projectiletypes\enhanced\m67\handgrenadefallsoft.wav
+gamecore\projectiletypes\enhanced\m67\m67.dbo
+gamecore\projectiletypes\enhanced\m67\m67.txt
+gamecore\projectiletypes\enhanced\m67\m67_d.dds
+gamecore\projectiletypes\enhanced\m67\m67_n.dds
+gamecore\projectiletypes\enhanced\m67\m67_s.dds
+gamecore\projectiletypes\enhanced\m67\m67_surface.dds
+gamecore\bulletholes\bulletholes_color.dds
+gamecore\bulletholes\bulletholes_normal.dds
+editors\lut\2striptable.png
+editors\lut\3striptable.png
+editors\lut\aohighlighttable.png
+editors\lut\basergbtable.png
+editors\lut\burgastable.png
+editors\lut\candlelighttable.png
+editors\lut\chromatable.png
+editors\lut\crispwarmtable.png
+editors\lut\crispwintertable.png
+editors\lut\deserttable.png
+editors\lut\drasticbwtable.png
+editors\lut\dropbluestable.png
+editors\lut\fallcolorstable.png
+editors\lut\filmstocktable.png
+editors\lut\filternames.txt
+editors\lut\foggynighttable.png
+editors\lut\haskovotable.png
+editors\lut\horrorbluetable.png
+editors\lut\kidnplaytable.png
+editors\lut\latesunsettable.png
+editors\lut\lightbluepurpletable.png
+editors\lut\moonlighttable.png
+editors\lut\neutral.png
+editors\lut\nightfromdaytable.png
+editors\lut\perniktable.png
+editors\lut\ps_bleachbypass.png
+editors\lut\ps_candlelight.png
+editors\lut\ps_coolcontrast.png
+editors\lut\ps_desaturatedfog.png
+editors\lut\ps_evening.png
+editors\lut\ps_fall.png
+editors\lut\ps_filmic.png
+editors\lut\ps_filmic2.png
+editors\lut\ps_filmic3.png
+editors\lut\ps_filmic4.png
+editors\lut\ps_filmic5.png
+editors\lut\ps_filmic6.png
+editors\lut\ps_filmic7.png
+editors\lut\ps_filmic8.png
+editors\lut\ps_filmic9.png
+editors\lut\ps_matrixblue.png
+editors\lut\ps_matrixgreen.png
+editors\lut\ps_night1.png
+editors\lut\ps_night2.png
+editors\lut\ps_night_dark.png
+editors\lut\ps_strongamber.png
+editors\lut\ps_warm.png
+editors\lut\ps_warmcontrast.png
+editors\lut\purplepastelwhitetable.png
+editors\lut\readme.txt
+editors\lut\redfromlumatable.png
+editors\lut\sephia.png
+editors\lut\sofiatable.png
+editors\lut\softwarmingtable.png
+editors\lut\tealorangecontrasttable.png
+editors\lut\tensiongreentable.png
+editors\lut\varnatable.png
+editors\lut\yamboltable.png
+editors\lut\yellowpurpletable.png
+terrainbank\desert\default.obj
+treebank\noise.dds
+treebank\billboards\birch autumn1_bb_sf_0.8_color.dds
+treebank\billboards\birch autumn1_bb_sf_0.8_normal.dds
+treebank\billboards\birch autumn2_bb_sf_0.8_color.dds
+treebank\billboards\birch autumn2_bb_sf_0.8_normal.dds
+treebank\billboards\birch autumn3_bb_sf_0.8_color.dds
+treebank\billboards\birch autumn3_bb_sf_0.8_normal.dds
+treebank\billboards\birch_bb_sf_0.8_color.dds
+treebank\billboards\birch_bb_sf_0.8_normal.dds
+treebank\billboards\cactus_var1_bb_sf_0.3_color.dds
+treebank\billboards\cactus_var1_bb_sf_0.3_normal.dds
+treebank\billboards\cactus_var2_bb_sf_0.3_color.dds
+treebank\billboards\cactus_var2_bb_sf_0.3_normal.dds
+treebank\billboards\cactus_var3_bb_sf_0.36_color.dds
+treebank\billboards\cactus_var3_bb_sf_0.36_normal.dds
+treebank\billboards\cactus_var4_bb_sf_0.26_color.dds
+treebank\billboards\cactus_var4_bb_sf_0.26_normal.dds
+treebank\billboards\dead pine tree_bb_sf_0.4_color.dds
+treebank\billboards\dead pine tree_bb_sf_0.4_normal.dds
+treebank\billboards\drypine_bb_sf_0.5_color.dds
+treebank\billboards\drypine_bb_sf_0.5_normal.dds
+treebank\billboards\italian pine_bb_sf_0.5_color.dds
+treebank\billboards\italian pine_bb_sf_0.5_normal.dds
+treebank\billboards\jungletree1_bb_sf_0.8_color.dds
+treebank\billboards\jungletree1_bb_sf_0.8_normal.dds
+treebank\billboards\jungletree2_bb_sf_0.75_color.dds
+treebank\billboards\jungletree2_bb_sf_0.75_normal.dds
+treebank\billboards\jungletree3a_bb_sf_1_color.dds
+treebank\billboards\jungletree3a_bb_sf_1_normal.dds
+treebank\billboards\jungletree3b_bb_sf_0.56_color.dds
+treebank\billboards\jungletree3b_bb_sf_0.56_normal.dds
+treebank\billboards\jungletree4a_bb_sf_1_color.dds
+treebank\billboards\jungletree4a_bb_sf_1_normal.dds
+treebank\billboards\jungletree4b_bb_sf_0.56_color.dds
+treebank\billboards\jungletree4b_bb_sf_0.56_normal.dds
+treebank\billboards\jungletree5a_bb_sf_0.75_color.dds
+treebank\billboards\jungletree5a_bb_sf_0.75_normal.dds
+treebank\billboards\jungletree5b_bb_sf_0.6_color.dds
+treebank\billboards\jungletree5b_bb_sf_0.6_normal.dds
+treebank\billboards\jungletree6a_bb_sf_0.75_color.dds
+treebank\billboards\jungletree6a_bb_sf_0.75_normal.dds
+treebank\billboards\jungletree6b_bb_sf_0.75_color.dds
+treebank\billboards\jungletree6b_bb_sf_0.75_normal.dds
+treebank\billboards\kentia palm_bb_sf_0.5_color.dds
+treebank\billboards\kentia palm_bb_sf_0.5_normal.dds
+treebank\billboards\palm_bb_sf_0.5_color.dds
+treebank\billboards\palm_bb_sf_0.5_normal.dds
+treebank\billboards\pine_bb_sf_0.5_color.dds
+treebank\billboards\pine_bb_sf_0.5_normal.dds
+treebank\billboards\scotspine dead_bb_sf_0.7_color.dds
+treebank\billboards\scotspine dead_bb_sf_0.7_normal.dds
+treebank\billboards\scotspine1_bb_sf_0.5_color.dds
+treebank\billboards\scotspine1_bb_sf_0.5_normal.dds
+treebank\billboards\scotspine2_bb_sf_0.7_color.dds
+treebank\billboards\scotspine2_bb_sf_0.7_normal.dds
+treebank\billboards\snow fir1_bb_sf_0.5_color.dds
+treebank\billboards\snow fir1_bb_sf_0.5_normal.dds
+treebank\billboards\snow fir2_bb_sf_0.63_color.dds
+treebank\billboards\snow fir2_bb_sf_0.63_normal.dds
+treebank\billboards\snow fir3_bb_sf_0.5_color.dds
+treebank\billboards\snow fir3_bb_sf_0.5_normal.dds
+treebank\billboards\snow pine tall2_bb_sf_0.37_color.dds
+treebank\billboards\snow pine tall2_bb_sf_0.37_normal.dds
+treebank\billboards\snow pine tall_bb_sf_0.4_color.dds
+treebank\billboards\snow pine tall_bb_sf_0.4_normal.dds
+treebank\billboards\snow pine_bb_sf_0.8_color.dds
+treebank\billboards\snow pine_bb_sf_0.8_normal.dds
+treebank\billboards\sparse pine_bb_sf_0.25_color.dds
+treebank\billboards\sparse pine_bb_sf_0.25_normal.dds
+treebank\billboards\vine tree large_bb_sf_0.67_color.dds
+treebank\billboards\vine tree large_bb_sf_0.67_normal.dds
+treebank\billboards\vine tree small_bb_sf_0.5_color.dds
+treebank\billboards\vine tree small_bb_sf_0.5_normal.dds
+treebank\billboards\westernpine_bb_sf_0.5_color.dds
+treebank\billboards\westernpine_bb_sf_0.5_normal.dds
+treebank\billboards\white pine_bb_sf_0.45_color.dds
+treebank\billboards\white pine_bb_sf_0.45_normal.dds
+treebank\textures\birch autumn1_branches.dds
+treebank\textures\birch autumn2_branches.dds
+treebank\textures\birch autumn3_branches.dds
+treebank\textures\birch_branches.dds
+treebank\textures\birch_trunk.dds
+treebank\textures\cactus_color.dds
+treebank\textures\dead pine tree_trunk_color.dds
+treebank\textures\drypine_branches_color.dds
+treebank\textures\drypine_trunk_color.dds
+treebank\textures\italian pine_branches.dds
+treebank\textures\italian pine_trunk.dds
+treebank\textures\jungletree1_branches_color.dds
+treebank\textures\jungletree1_trunk_color.dds
+treebank\textures\jungletree2_branches_color.dds
+treebank\textures\jungletree2_trunk_color.dds
+treebank\textures\jungletree3_branches_color.dds
+treebank\textures\jungletree3_trunk_color.dds
+treebank\textures\jungletree4_branches_color.dds
+treebank\textures\jungletree4_trunk_color.dds
+treebank\textures\jungletree5_branches_color.dds
+treebank\textures\jungletree5_trunk_color.dds
+treebank\textures\jungletree6_branches_color.dds
+treebank\textures\jungletree6_trunk_color.dds
+treebank\textures\kentia palm_branches.dds
+treebank\textures\kentia palm_trunk.dds
+treebank\textures\palm_branches.dds
+treebank\textures\palm_trunk.dds
+treebank\textures\pine_branches.dds
+treebank\textures\pine_trunk.dds
+treebank\textures\scotspine_bark_color.dds
+treebank\textures\scotspine_branches_color.dds
+treebank\textures\snow fir2_branches.dds
+treebank\textures\snow fir2_trunk.dds
+treebank\textures\snow fir3_branches.dds
+treebank\textures\snow fir3_trunk.dds
+treebank\textures\snow fir_branches.dds
+treebank\textures\snow fir_trunk.dds
+treebank\textures\snow pine tall2_branches.dds
+treebank\textures\snow pine tall2_trunk.dds
+treebank\textures\snow pine tall_branches.dds
+treebank\textures\snow pine tall_trunk.dds
+treebank\textures\snow pine_branches.dds
+treebank\textures\snow pine_trunk.dds
+treebank\textures\sparse pine_branches_color.dds
+treebank\textures\sparse pine_trunk_color.dds
+treebank\textures\vine tree large_branches.dds
+treebank\textures\vine tree large_trunk.dds
+treebank\textures\vine tree small_branches.dds
+treebank\textures\vine tree small_trunk.dds
+treebank\textures\western pine_branches_color.dds
+treebank\textures\western pine_trunk_color.dds
+treebank\textures\white pine_branches.dds
+treebank\textures\white pine_trunk.dds
+terraintextures\matsounds.txt
+terraintextures\mat1\color.dds
+terraintextures\mat1\normal.dds
+terraintextures\mat1\surface.dds
+terraintextures\mat2\color.dds
+terraintextures\mat2\normal.dds
+terraintextures\mat2\surface.dds
+terraintextures\mat3\color.dds
+terraintextures\mat3\normal.dds
+terraintextures\mat3\surface.dds
+terraintextures\mat4\color.dds
+terraintextures\mat4\normal.dds
+terraintextures\mat4\surface.dds
+terraintextures\mat5\color.dds
+terraintextures\mat5\normal.dds
+terraintextures\mat5\surface.dds
+terraintextures\mat6\color.dds
+terraintextures\mat6\normal.dds
+terraintextures\mat6\surface.dds
+terraintextures\mat7\color.dds
+terraintextures\mat7\normal.dds
+terraintextures\mat7\surface.dds
+terraintextures\mat8\color.dds
+terraintextures\mat8\normal.dds
+terraintextures\mat8\surface.dds
+terraintextures\mat9\color.dds
+terraintextures\mat9\normal.dds
+terraintextures\mat9\surface.dds
+terraintextures\mat10\color.dds
+terraintextures\mat10\normal.dds
+terraintextures\mat10\surface.dds
+terraintextures\mat11\color.dds
+terraintextures\mat11\normal.dds
+terraintextures\mat11\surface.dds
+terraintextures\mat12\color.dds
+terraintextures\mat12\normal.dds
+terraintextures\mat12\surface.dds
+terraintextures\mat13\color.dds
+terraintextures\mat13\normal.dds
+terraintextures\mat13\surface.dds
+terraintextures\mat14\color.dds
+terraintextures\mat14\normal.dds
+terraintextures\mat14\surface.dds
+terraintextures\mat15\color.dds
+terraintextures\mat15\normal.dds
+terraintextures\mat15\surface.dds
+terraintextures\mat16\color.dds
+terraintextures\mat16\normal.dds
+terraintextures\mat16\surface.dds
+terraintextures\mat17\color.dds
+terraintextures\mat17\normal.dds
+terraintextures\mat17\surface.dds
+terraintextures\mat18\color.dds
+terraintextures\mat18\normal.dds
+terraintextures\mat18\surface.dds
+terraintextures\mat19\color.dds
+terraintextures\mat19\normal.dds
+terraintextures\mat19\surface.dds
+terraintextures\mat20\color.dds
+terraintextures\mat20\normal.dds
+terraintextures\mat20\surface.dds
+terraintextures\mat21\color.dds
+terraintextures\mat21\normal.dds
+terraintextures\mat21\surface.dds
+terraintextures\mat22\color.dds
+terraintextures\mat22\normal.dds
+terraintextures\mat22\surface.dds
+terraintextures\mat23\color.dds
+terraintextures\mat23\normal.dds
+terraintextures\mat23\surface.dds
+terraintextures\mat24\color.dds
+terraintextures\mat24\normal.dds
+terraintextures\mat24\surface.dds
+terraintextures\mat25\color.dds
+terraintextures\mat25\normal.dds
+terraintextures\mat25\surface.dds
+terraintextures\mat26\color.dds
+terraintextures\mat26\normal.dds
+terraintextures\mat26\surface.dds
+terraintextures\mat27\color.dds
+terraintextures\mat27\normal.dds
+terraintextures\mat27\surface.dds
+terraintextures\mat28\color.dds
+terraintextures\mat28\normal.dds
+terraintextures\mat28\surface.dds
+terraintextures\mat29\color.dds
+terraintextures\mat29\normal.dds
+terraintextures\mat29\surface.dds
+terraintextures\mat30\color.dds
+terraintextures\mat30\normal.dds
+terraintextures\mat30\surface.dds
+terraintextures\mat31\color.dds
+terraintextures\mat31\normal.dds
+terraintextures\mat31\surface.dds
+terraintextures\mat32\color.dds
+terraintextures\mat32\normal.dds
+terraintextures\mat32\surface.dds
+grassbank\course grass_mat1_sf_1.15.dds
+grassbank\course grass_mat20_sf_1.15.dds
+grassbank\course grass_mat25_sf_1.15.dds
+grassbank\course grass_mat29_sf_1.15.dds
+grassbank\course grass_mat30_sf_1.15.dds
+grassbank\course grass_mat3_sf_1.15.dds
+grassbank\course grass_mat9_sf_1.15.dds
+grassbank\flower red_color_sf_0.5.dds
+grassbank\flower white_color_sf_0.5.dds
+grassbank\flower yellow_color_sf_0.5.dds
+grassbank\kelp2_bb_sf_0.47_color.dds
+grassbank\kelp2_bb_sf_0.47_normal.dds
+grassbank\kelp3_bb_sf_0.47_color.dds
+grassbank\kelp3_bb_sf_0.47_normal.dds
+grassbank\kelp_bb_sf_0.47_color.dds
+grassbank\kelp_bb_sf_0.47_normal.dds
+grassbank\seaweed2_bb_sf_0.9_color.dds
+grassbank\seaweed2_bb_sf_0.9_normal.dds
+grassbank\seaweed3_bb_sf_0.7_color.dds
+grassbank\seaweed3_bb_sf_0.7_normal.dds
+grassbank\seaweed_bb_sf_0.77_color.dds
+grassbank\seaweed_bb_sf_0.77_normal.dds
+grassbank\short grass_mat1_sf_1.4.dds
+grassbank\short grass_mat20_sf_1.4.dds
+grassbank\short grass_mat25_sf_1.4.dds
+grassbank\short grass_mat29_sf_1.4.dds
+grassbank\short grass_mat30_sf_1.4.dds
+grassbank\short grass_mat3_sf_1.4.dds
+grassbank\short grass_mat9_sf_1.4.dds
+grassbank\tall grass_mat1_sf_0.87.dds
+grassbank\tall grass_mat20_sf_0.87.dds
+grassbank\tall grass_mat25_sf_0.87.dds
+grassbank\tall grass_mat29_sf_0.87.dds
+grassbank\tall grass_mat30_sf_0.87.dds
+grassbank\tall grass_mat3_sf_0.87.dds
+grassbank\tall grass_mat9_sf_0.87.dds
+grassbank\weed1_sf_0.6.dds
+grassbank\weed2_sf_0.5.dds
+grassbank\weed3_sf_1.0.dds
+grassbank\weed4_sf_1.0.dds
+grassbank\weed5_sf_0.43.dds
+grassbank\weed6_sf_0.35.dds
+grassbank\weed7_sf_1.0.dds
+grassbank\weed8_sf_1.0.dds
+grassbank\weed9_sf_1.0.dds
+grassbank\wild grass_mat1_sf_1.17.dds
+grassbank\wild grass_mat20_sf_1.17.dds
+grassbank\wild grass_mat25_sf_1.17.dds
+grassbank\wild grass_mat29_sf_1.17.dds
+grassbank\wild grass_mat30_sf_1.17.dds
+grassbank\wild grass_mat3_sf_1.17.dds
+grassbank\wild grass_mat9_sf_1.17.dds
+particlesbank\beam_fire.arx
+particlesbank\beam_fire_g.png
+particlesbank\beam_fire_r.png
+particlesbank\beam_fire_sx.png
+particlesbank\beam_hot.arx
+particlesbank\beam_hot_g.png
+particlesbank\beam_hot_r.png
+particlesbank\beam_hot_sx.png
+particlesbank\camp smoke.arx
+particlesbank\camp smoke_g.png
+particlesbank\camp smoke_r.png
+particlesbank\camp smoke_s1.png
+particlesbank\camp smoke_sx.png
+particlesbank\default.arx
+particlesbank\default_g.png
+particlesbank\default_r.png
+particlesbank\default_sx.png
+particlesbank\dome.arx
+particlesbank\dome_g.png
+particlesbank\dome_r.png
+particlesbank\dome_sx.png
+particlesbank\embers2.arx
+particlesbank\embers2_g.png
+particlesbank\embers2_r.png
+particlesbank\embers2_s1.png
+particlesbank\embers2_sx.png
+particlesbank\explosion.arx
+particlesbank\explosion_g.png
+particlesbank\explosion_r.png
+particlesbank\explosion_sx.png
+particlesbank\fire_and_smoke.arx
+particlesbank\fire_and_smoke_g.png
+particlesbank\fire_and_smoke_r.png
+particlesbank\fire_and_smoke_sx.png
+particlesbank\fire_bigsprites.arx
+particlesbank\fire_bigsprites_g.png
+particlesbank\fire_bigsprites_r.png
+particlesbank\fire_bigsprites_sx.png
+particlesbank\fire_tornado_3.arx
+particlesbank\fire_tornado_3_g.png
+particlesbank\fire_tornado_3_r.png
+particlesbank\fire_tornado_3_sx.png
+particlesbank\fountain_directional.arx
+particlesbank\fountain_directional_g.png
+particlesbank\fountain_directional_r.png
+particlesbank\fountain_directional_sx.png
+particlesbank\portal5.arx
+particlesbank\portal5_g.png
+particlesbank\portal5_r.png
+particlesbank\portal5_sx.png
+particlesbank\smoke_billowy.arx
+particlesbank\smoke_billowy_g.png
+particlesbank\smoke_billowy_r.png
+particlesbank\smoke_billowy_sx.png
+particlesbank\smoke_thick.arx
+particlesbank\smoke_thick_g.png
+particlesbank\smoke_thick_r.png
+particlesbank\smoke_thick_sx.png
+particlesbank\stylized_poisonring.arx
+particlesbank\stylized_poisonring_g.png
+particlesbank\stylized_poisonring_r.png
+particlesbank\stylized_poisonring_sx.png
+effectbank\common\noise64.png
+effectbank\common\dist2.png
+effectbank\common\dot.png
+effectbank\common\rain_color.png
+effectbank\common\rain_normal.png
+pinetree_high_color_1024.dds
+pinetree.dds
+noise.dds
+skybank\clear\
+gamecore\decals\dust\decal.dds
+gamecore\decals\dust\decalspec.txt
+gamecore\decals\sparks\decal.dds
+gamecore\decals\sparks\decalspec.txt
+gamecore\decals\splinters\decal.dds
+gamecore\decals\splinters\decalspec.txt
+gamecore\muzzleflash\flash4.dds
+gamecore\muzzleflash\flash51.dds
+gamecore\muzzleflash\flash9.dds
+gamecore\hudlayers\jetpack9.dbo
+gamecore\hudlayers\jetpack9_cube.dds
+gamecore\hudlayers\jetpack9_d.dds
+gamecore\hudlayers\jetpack9_n.dds
+gamecore\hudlayers\jetpack9_s.dds
+gamecore\hudlayers\whatarehudlayers.txt
+gamecore\hands\animations\legacyenhancedak.dbo
+gamecore\hands\animations\legacyenhancedar.dbo
+gamecore\hands\animations\legacyenhancedb810.dbo
+gamecore\hands\animations\legacyenhancedgloves_unarmed.dbo
+gamecore\hands\animations\legacyenhancedm29s.dbo
+gamecore\hands\animations\legacyenhancedm67.dbo
+gamecore\hands\animations\legacyenhancedmk18.dbo
+gamecore\hands\animations\legacyenhancedmk19t.dbo
+gamecore\hands\animations\legacyenhancedr870.dbo
+gamecore\hands\animations\legacyenhancedsledgehammer.dbo
+titlesbank\default\\about-hover.png
+titlesbank\default\\about.lua
+titlesbank\default\\about.png
+titlesbank\default\\back-hover.png
+titlesbank\default\\back.png
+titlesbank\default\\blank-hover.png
+titlesbank\default\\blank.png
+titlesbank\default\\continue-hover.png
+titlesbank\default\\continue.png
+titlesbank\default\\controls.lua
+titlesbank\default\\cursor-33.png
+titlesbank\default\\cursor-big.png
+titlesbank\default\\cursor.png
+titlesbank\default\\custom.lua
+titlesbank\default\\exit-to-desktop-hover.png
+titlesbank\default\\exit-to-desktop.png
+titlesbank\default\\fov.png
+titlesbank\default\\game-paused-title.png
+titlesbank\default\\game-won-title.png
+titlesbank\default\\gamemenu.lua
+titlesbank\default\\graphics-settings-hover.png
+titlesbank\default\\graphics-settings-title.png
+titlesbank\default\\graphics-settings.png
+titlesbank\default\\graphics.lua
+titlesbank\default\\high-hover.png
+titlesbank\default\\high-selected.png
+titlesbank\default\\high.png
+titlesbank\default\\highest-hover.png
+titlesbank\default\\highest-selected.png
+titlesbank\default\\highest.png
+titlesbank\default\\hud.lua
+titlesbank\default\\level-complete-title.png
+titlesbank\default\\load-game-hover.png
+titlesbank\default\\load-game.png
+titlesbank\default\\loadgame.lua
+titlesbank\default\\loading-bar-empty.png
+titlesbank\default\\loading-bar-full.png
+titlesbank\default\\loading-dot.png
+titlesbank\default\\loading-text.png
+titlesbank\default\\loading.lua
+titlesbank\default\\lose.lua
+titlesbank\default\\low-hover.png
+titlesbank\default\\low-selected.png
+titlesbank\default\\low.png
+titlesbank\default\\lowest-hover.png
+titlesbank\default\\lowest-selected.png
+titlesbank\default\\lowest.png
+titlesbank\default\\main-menu-hover.png
+titlesbank\default\\main-menu.png
+titlesbank\default\\medium-hover.png
+titlesbank\default\\medium-selected.png
+titlesbank\default\\medium.png
+titlesbank\default\\music-label.png
+titlesbank\default\\nextlevel.lua
+titlesbank\default\\quit-game-hover.png
+titlesbank\default\\quit-game.png
+titlesbank\default\\resume-game-hover.png
+titlesbank\default\\resume-game.png
+titlesbank\default\\return-to-desktop.png
+titlesbank\default\\return-to-desktop_hover.png
+titlesbank\default\\save-game-hover.png
+titlesbank\default\\save-game.png
+titlesbank\default\\savegame.lua
+titlesbank\default\\slider-bar-dot.png
+titlesbank\default\\slider-bar-empty.png
+titlesbank\default\\slider-bar-full.png
+titlesbank\default\\sound-effects-label.png
+titlesbank\default\\sound-levels-hover.png
+titlesbank\default\\sound-levels-title.png
+titlesbank\default\\sound-levels.png
+titlesbank\default\\sounds.lua
+titlesbank\default\\start-hover.png
+titlesbank\default\\start.png
+titlesbank\default\\title.lua
+titlesbank\default\\title.ogg
+titlesbank\default\\visit-reloaded-website.png
+titlesbank\default\\visit-reloaded-website_hover.png
+titlesbank\default\\visit-website-hover.png
+titlesbank\default\\visit-website.png
+titlesbank\default\\win.lua
+imagebank\hud\ammo-health-panel.png
+imagebank\hud\ammo-icon-assault.png
+imagebank\hud\ammo-icon-bow.png
+imagebank\hud\ammo-icon-grenade.png
+imagebank\hud\ammo-icon-handgun.png
+imagebank\hud\ammo-icon-infinity.png
+imagebank\hud\ammo-icon-knife.png
+imagebank\hud\ammo-icon-none.png
+imagebank\hud\ammo-icon-riffle.png
+imagebank\hud\ammo-icon-rpg.png
+imagebank\hud\ammo-icon-shotgun.png
+imagebank\hud\ammo-icon-staff.png
+imagebank\hud\ammo-icon-stone.png
+imagebank\hud\armour-icon.png
+imagebank\hud\blank.png
+imagebank\hud\cursor-big.png
+imagebank\hud\cursor-medium.png
+imagebank\hud\cursor.png
+imagebank\hud\fantasy-bar.png
+imagebank\hud\gold-icon.png
+imagebank\hud\health-icon.png
+imagebank\hud\horizontal-line.png
+imagebank\hud\icon-assault.png
+imagebank\hud\icon-bow.png
+imagebank\hud\icon-colt.png
+imagebank\hud\icon-grenade.png
+imagebank\hud\icon-knife.png
+imagebank\hud\icon-mace.png
+imagebank\hud\icon-magnum.png
+imagebank\hud\icon-riffle.png
+imagebank\hud\icon-rpg.png
+imagebank\hud\icon-shotgun.png
+imagebank\hud\icon-staff.png
+imagebank\hud\icon-stone.png
+imagebank\hud\icon-sword.png
+imagebank\hud\icon-uzi.png
+imagebank\hud\lives-icon.png
+imagebank\hud\mana-icon.png
+imagebank\hud\square-panel.png
+imagebank\hud\stamina-icon.png
+imagebank\hud\temperature-icon.png
+imagebank\hud\vertical-line.png
+imagebank\hud\xp-icon.png
+imagebank\hud library\max\button_add_highlight.png
+imagebank\hud library\max\button_add_normal.png
+imagebank\hud library\max\button_subtract_highlight.png
+imagebank\hud library\max\button_subtract_normal.png
+imagebank\hud library\max\grid5x6.png
+imagebank\hud library\max\grid6x6.png
+imagebank\hud library\max\grid8x8.png
+imagebank\hud library\max\grid9x1.png
+imagebank\hud library\max\map-character.png
+imagebank\hud library\max\map-image.png
+imagebank\hud library\max\map-objective.png
+imagebank\hud library\max\map-player.png
+imagebank\hud library\max\map-window.png
+imagebank\hud library\max\map-winzone.png
+imagebank\hud library\max\missing.png
+imagebank\hud library\max\object.png
+imagebank\hud library\max\sav718e.tmp
+imagebank\hud library\max\scrollbarbox.png
+imagebank\hud library\max\scrollbarhandle.png
+imagebank\hud library\max\tile.png
+mapbank\dm one.fpm
+audiobank\ambient\plains.wav
+
+gamecore\guns\tools\shovel\item.png
+gamecore\guns\enhanced\ak\item.png
+gamecore\guns\tools\hammer\item.png
+gamecore\guns\tools\handsaw\item.png
+editors\templates\fonts\8bitlim.ttf
+editors\templates\fonts\arial.ttf
+editors\templates\fonts\chunkfive-regular.ttf
+editors\templates\fonts\dejavu fonts license.txt
+editors\templates\fonts\dejavusansmono-bold.ttf
+editors\templates\fonts\jellee-bold.ttf
+editors\templates\fonts\jellee-ofl.txt
+editors\templates\fonts\notosans-regular.ttf
+editors\templates\fonts\oflgoudystmtt.ttf
+editors\templates\fonts\open font license.markdown
+editors\templates\fonts\orbitron bold.ttf
+editors\templates\fonts\prociono.ttf
+editors\uiv3\roboto-medium.ttf
+mapbank\dm one.png
+projectbank\dom one\collection - items.ele
+projectbank\dom one\collection - items.tsv
+projectbank\dom one\collection - quests.tsv
+projectbank\dom one\mapbank_dm one.fpm512x288.jpg
+projectbank\dom one\mapbank_dom one.fpm512x288.jpg
+projectbank\dom one\project.dat
+editors\uiv3\loadingsplash.jpg
+editors\templates\backdrops\title.png
+editors\templates\buttons\default.png
+editors\templates\buttons\default-hover.png
+editors\templates\buttons\default-selected.png
+editors\templates\backdrops\loading.png
+editors\templates\buttons\slider-bar-empty.png
+editors\templates\buttons\slider-bar-full.png
+editors\templates\backdrops\about.png
+editors\templates\backdrops\end.png
+editors\templates\backdrops\lost.png
+vegbank\allgrass.png
+vegbank\veg.dbo
+vegbank\clump.dbo
+charactercreatorplus\skins\codes.txt
+charactercreatorplus\skins\ic1a.png
+charactercreatorplus\skins\ic1b.png
+charactercreatorplus\skins\ic1c.png
+charactercreatorplus\skins\ic1d.png
+charactercreatorplus\skins\ic1e.png
+charactercreatorplus\skins\ic2a.png
+charactercreatorplus\skins\ic2c.png
+charactercreatorplus\skins\ic3a.png
+charactercreatorplus\skins\ic3b.png
+charactercreatorplus\skins\ic3c.png
+charactercreatorplus\skins\ic3d.png
+charactercreatorplus\skins\ic5a.png
+charactercreatorplus\skins\ic5b.png
+charactercreatorplus\skins\ic5c.png
+charactercreatorplus\skins\tempfinalalbedo0.dds
+charactercreatorplus\skins\tempfinalalbedo1.dds
+charactercreatorplus\skins\tempfinalalbedo2.dds
+entitybank\_markers\start with ghost.dds
+entitybank\_markers\player start.fpe
+entitybank\_markers\start with ghost.dbo
+entitybank\_markers\
+effectbank\reloaded\apbr_basic.fx
+scriptbank\no_behavior_selected.lua
+scriptbank\no_behavior_selected.byc
+player
+pl.lip
+.lip
+entitybank\buildings collection\warehouse\warehouse - dark blue roof full open.fpe
+entitybank\buildings collection\warehouse\warehouse - dark blue roof full open.dbo
+entitybank\buildings collection\warehouse\
+entitybank\buildings collection\warehouse\warehouse-floor_color.dds
+entitybank\buildings collection\warehouse\warehouse-floor_normal.dds
+entitybank\buildings collection\warehouse\warehouse-floor_surface.dds
+entitybank\buildings collection\warehouse\warehouse-metal dark blue_color.dds
+entitybank\buildings collection\warehouse\warehouse-metal dark blue_normal.dds
+entitybank\buildings collection\warehouse\warehouse-metal dark blue_surface.dds
+audiobank\misc\open.wav
+audiobank\misc\close.wav
+audiobank\misc\open.lip
+audiobank\misc\close.lip
+entitybank\buildings collection\warehouse\warehouse - red.fpe
+entitybank\buildings collection\warehouse\warehouse - red.dbo
+entitybank\buildings collection\warehouse\warehouse-corrugated sheet_color.dds
+entitybank\buildings collection\warehouse\warehouse-corrugated sheet_normal.dds
+entitybank\buildings collection\warehouse\warehouse-corrugated sheet_surface.dds
+entitybank\buildings collection\warehouse\warehouse-corrugated red stripe_color.dds
+entitybank\buildings collection\warehouse\warehouse-corrugated red stripe_normal.dds
+entitybank\buildings collection\warehouse\warehouse-corrugated red stripe_surface.dds
+entitybank\buildings collection\warehouse\warehouse-corrugated white_color.dds
+entitybank\buildings collection\warehouse\warehouse-corrugated white_normal.png
+entitybank\buildings collection\warehouse\warehouse-corrugated white_surface.dds
+entitybank\buildings collection\warehouse\warehouse-corrugated red_color.dds
+entitybank\buildings collection\warehouse\warehouse-corrugated red_normal.dds
+entitybank\buildings collection\warehouse\warehouse-corrugated red_surface.dds
+entitybank\buildings collection\warehouse\warehouse-metal red_color.dds
+entitybank\buildings collection\warehouse\warehouse-metal red_normal.dds
+entitybank\buildings collection\warehouse\warehouse-metal red_surface.dds
+entitybank\max collection\misc\themysteryofzisland\van.fpe
+entitybank\max collection\misc\themysteryofzisland\van.dbo
+entitybank\max collection\misc\themysteryofzisland\material _23_base_color.png
+entitybank\max collection\misc\themysteryofzisland\
+entitybank\max collection\misc\themysteryofzisland\material _23_base_albedo.png
+entitybank\max collection\misc\themysteryofzisland\material _23_base_normal.png
+entitybank\max collection\misc\themysteryofzisland\material _23_base_specular.png
+entitybank\max collection\misc\themysteryofzisland\material _23_base_metalness.png
+entitybank\max collection\misc\themysteryofzisland\material _23_base_gloss.png
+entitybank\max collection\misc\themysteryofzisland\material _23_base_mask.png
+entitybank\max collection\misc\themysteryofzisland\material _23_base_ao.png
+entitybank\max collection\misc\themysteryofzisland\material _23_base_height.png
+entitybank\max collection\misc\themysteryofzisland\material _23_base_detail.png
+entitybank\max collection\misc\themysteryofzisland\material _23_base_surface.png
+entitybank\max collection\misc\themysteryofzisland\material _23_base_emissive.png
+entitybank\max collection\misc\themysteryofzisland\material _23_base_illumination.png
+entitybank\max collection\misc\themysteryofzisland\material _23_base_illum.png
+entitybank\max collection\misc\themysteryofzisland\material _23_base_i.png
+entitybank\max collection\misc\themysteryofzisland\material _23_base_cube.png
+entitybank\max collection\misc\themysteryofzisland\material _23_base_color.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_base_albedo.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_base_normal.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_base_specular.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_base_metalness.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_base_gloss.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_base_mask.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_base_ao.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_base_height.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_base_detail.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_base_surface.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_base_emissive.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_base_illumination.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_base_illum.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_base_i.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_base_cube.dds
+entitybank\max collection\misc\themysteryofzisland\material _23_normal_openglinverted.dds
+entitybank\max collection\misc\themysteryofzisland\ffusemap_surfacer23_normal_openglgb_surface.dds
+entitybank\_markers\zone.dds
+entitybank\_markers\trigger zone.fpe
+entitybank\_markers\zone.dbo
+scriptbank\markers\toxiczone.lua
+scriptbank\markers\toxiczone.byc
+audiobank\misc\soundtrigger.wav
+audiobank\misc\soundtrigger.lip
+entitybank\max collection\cellar\fire - medium.dds
+entitybank\max collection\cellar\fire - medium.fpe
+entitybank\max collection\cellar\fire - medium.dbo
+entitybank\max collection\cellar\
+effectbank\reloaded\decal_animate8.fx
+scriptbank\decal_facing.lua
+scriptbank\decal_facing.byc
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_color.dds
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_normal.dds
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_surface.dds
+entitybank\buildings collection\warehouse\warehouse - grey door large.fpe
+entitybank\buildings collection\warehouse\warehouse - door large.dbo
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_albedo.dds
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_specular.dds
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_metalness.dds
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_gloss.dds
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_mask.dds
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_ao.dds
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_height.dds
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_detail.dds
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_emissive.dds
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_illumination.dds
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_illum.dds
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_i.dds
+entitybank\buildings collection\warehouse\warehouse-grey door large inv_cube.dds
+entitybank\_markers\lightbulb_white_d.dds
+entitybank\_markers\lightbulb_white_surface.dds
+entitybank\_markers\white light.fpe
+entitybank\_markers\hybridlight.dbo
+entitybank\_markers\lightbulb_white_n.dds
+entitybank\_markers\lightbulb_white_s.dds
+entitybank\_markers\lightbulb_white_i.dds
+entitybank\_markers\lightbulb_white_o.dds
+entitybank\_markers\lightbulb_white_cube.dds
+scriptbank\markers\constantlight.lua
+scriptbank\markers\constantlight.byc
+entitybank\basement collection\electricity\lamp_color.dds
+entitybank\basement collection\electricity\lamp_normal.dds
+entitybank\basement collection\electricity\lamp_surface.dds
+entitybank\basement collection\electricity\lamp_emissive.dds
+entitybank\basement collection\electricity\lamp - caged light horizontal.fpe
+entitybank\basement collection\electricity\lamp - caged light horizontal.dbo
+entitybank\basement collection\electricity\lamp_metalness.dds
+entitybank\basement collection\electricity\lamp_gloss.dds
+entitybank\basement collection\electricity\lamp_ao.dds
+entitybank\basement collection\electricity\lamp_illumination.dds
+entitybank\basement collection\electricity\
+entitybank\basement collection\electricity\lamp_albedo.dds
+entitybank\basement collection\electricity\lamp_specular.dds
+entitybank\basement collection\electricity\lamp_mask.dds
+entitybank\basement collection\electricity\lamp_height.dds
+entitybank\basement collection\electricity\lamp_detail.dds
+entitybank\basement collection\electricity\lamp_illum.dds
+entitybank\basement collection\electricity\lamp_i.dds
+entitybank\basement collection\electricity\lamp_cube.dds
+entitybank\military collection\crates\crates - pallet.fpe
+entitybank\military collection\crates\crates - pallet.dbo
+entitybank\military collection\crates\
+entitybank\military collection\crates\crates-pallet_color.dds
+entitybank\military collection\crates\crates-pallet_albedo.dds
+entitybank\military collection\crates\crates-pallet_normal.dds
+entitybank\military collection\crates\crates-pallet_specular.dds
+entitybank\military collection\crates\crates-pallet_metalness.dds
+entitybank\military collection\crates\crates-pallet_gloss.dds
+entitybank\military collection\crates\crates-pallet_mask.dds
+entitybank\military collection\crates\crates-pallet_ao.dds
+entitybank\military collection\crates\crates-pallet_height.dds
+entitybank\military collection\crates\crates-pallet_detail.dds
+entitybank\military collection\crates\crates-pallet_surface.dds
+entitybank\military collection\crates\crates-pallet_emissive.dds
+entitybank\military collection\crates\crates-pallet_illumination.dds
+entitybank\military collection\crates\crates-pallet_illum.dds
+entitybank\military collection\crates\crates-pallet_i.dds
+entitybank\military collection\crates\crates-pallet_cube.dds
+entitybank\max collection\cellar\cardboard box.fpe
+entitybank\max collection\cellar\cardboard box.dbo
+entitybank\max collection\cellar\cardboard box_color.dds
+entitybank\max collection\cellar\cardboard box_albedo.dds
+entitybank\max collection\cellar\cardboard box_normal.dds
+entitybank\max collection\cellar\cardboard box_specular.dds
+entitybank\max collection\cellar\cardboard box_metalness.dds
+entitybank\max collection\cellar\cardboard box_gloss.dds
+entitybank\max collection\cellar\cardboard box_mask.dds
+entitybank\max collection\cellar\cardboard box_ao.dds
+entitybank\max collection\cellar\cardboard box_height.dds
+entitybank\max collection\cellar\cardboard box_detail.dds
+entitybank\max collection\cellar\cardboard box_surface.dds
+entitybank\max collection\cellar\cardboard box_emissive.dds
+entitybank\max collection\cellar\cardboard box_illumination.dds
+entitybank\max collection\cellar\cardboard box_illum.dds
+entitybank\max collection\cellar\cardboard box_i.dds
+entitybank\max collection\cellar\cardboard box_cube.dds
+entitybank\max collection\tools\flashlight black.fpe
+entitybank\max collection\tools\flashlight black.dbo
+entitybank\max collection\tools\flashlightb_color.dds
+entitybank\max collection\tools\flashlightb_normal.dds
+entitybank\max collection\tools\flashlightb_metalness.dds
+entitybank\max collection\tools\flashlightb_gloss.dds
+entitybank\max collection\tools\flashlightb_ao.dds
+entitybank\max collection\tools\flashlightb_illumination.dds
+entitybank\max collection\tools\flashlightb_surface.dds
+entitybank\max collection\tools\flashlightb_emissive.dds
+entitybank\max collection\tools\
+scriptbank\rpg\flashlight.lua
+scriptbank\rpg\flashlight.byc
+scriptbank\module_misclib.lua
+entitybank\industrial collection\trash\blue dumpster.fpe
+entitybank\industrial collection\trash\blue dumpster.dbo
+entitybank\industrial collection\trash\blue dumpster_color.dds
+entitybank\industrial collection\trash\blue dumpster_normal.dds
+entitybank\industrial collection\trash\blue dumpster_metalness.dds
+entitybank\industrial collection\trash\blue dumpster_gloss.dds
+entitybank\industrial collection\trash\blue dumpster_ao.dds
+entitybank\industrial collection\trash\blue dumpster_illumination.dds
+entitybank\industrial collection\trash\blue dumpster_surface.dds
+entitybank\industrial collection\trash\
+entitybank\industrial collection\trash\blue dumpster.bullet
+entitybank\industrial collection\trash\blue dumpster_albedo.dds
+entitybank\industrial collection\trash\blue dumpster_specular.dds
+entitybank\industrial collection\trash\blue dumpster_mask.dds
+entitybank\industrial collection\trash\blue dumpster_height.dds
+entitybank\industrial collection\trash\blue dumpster_detail.dds
+entitybank\industrial collection\trash\blue dumpster_emissive.dds
+entitybank\industrial collection\trash\blue dumpster_illum.dds
+entitybank\industrial collection\trash\blue dumpster_i.dds
+entitybank\industrial collection\trash\blue dumpster_cube.dds
+entitybank\industrial collection\industrial\corroded electrical box - panel.fpe
+entitybank\industrial collection\industrial\corroded electrical box - panel.dbo
+entitybank\industrial collection\industrial\
+entitybank\industrial collection\industrial\corroded electrical box_color.dds
+entitybank\industrial collection\industrial\corroded electrical box_albedo.dds
+entitybank\industrial collection\industrial\corroded electrical box_normal.dds
+entitybank\industrial collection\industrial\corroded electrical box_specular.dds
+entitybank\industrial collection\industrial\corroded electrical box_metalness.dds
+entitybank\industrial collection\industrial\corroded electrical box_gloss.dds
+entitybank\industrial collection\industrial\corroded electrical box_mask.dds
+entitybank\industrial collection\industrial\corroded electrical box_ao.dds
+entitybank\industrial collection\industrial\corroded electrical box_height.dds
+entitybank\industrial collection\industrial\corroded electrical box_detail.dds
+entitybank\industrial collection\industrial\corroded electrical box_surface.dds
+entitybank\industrial collection\industrial\corroded electrical box_emissive.dds
+entitybank\industrial collection\industrial\corroded electrical box_illumination.dds
+entitybank\industrial collection\industrial\corroded electrical box_illum.dds
+entitybank\industrial collection\industrial\corroded electrical box_i.dds
+entitybank\industrial collection\industrial\corroded electrical box_cube.dds
+entitybank\industrial collection\industrial\hand trolly.fpe
+entitybank\industrial collection\industrial\hand trolly.dbo
+entitybank\industrial collection\industrial\hand trolly_color.dds
+entitybank\industrial collection\industrial\hand trolly_normal.dds
+entitybank\industrial collection\industrial\hand trolly_metalness.dds
+entitybank\industrial collection\industrial\hand trolly_gloss.dds
+entitybank\industrial collection\industrial\hand trolly_ao.dds
+entitybank\industrial collection\industrial\hand trolly_illumination.dds
+entitybank\industrial collection\industrial\hand trolly_surface.dds
+entitybank\industrial collection\industrial\hand trolly_albedo.dds
+entitybank\industrial collection\industrial\hand trolly_specular.dds
+entitybank\industrial collection\industrial\hand trolly_mask.dds
+entitybank\industrial collection\industrial\hand trolly_height.dds
+entitybank\industrial collection\industrial\hand trolly_detail.dds
+entitybank\industrial collection\industrial\hand trolly_emissive.dds
+entitybank\industrial collection\industrial\hand trolly_illum.dds
+entitybank\industrial collection\industrial\hand trolly_i.dds
+entitybank\industrial collection\industrial\hand trolly_cube.dds
+entitybank\industrial collection\jail\jail - door frame.fpe
+entitybank\industrial collection\jail\jail - door frame.dbo
+entitybank\industrial collection\jail\
+entitybank\industrial collection\jail\jail - door frame.bullet
+entitybank\industrial collection\jail\jail_color.dds
+entitybank\industrial collection\jail\jail_albedo.dds
+entitybank\industrial collection\jail\jail_normal.dds
+entitybank\industrial collection\jail\jail_specular.dds
+entitybank\industrial collection\jail\jail_metalness.dds
+entitybank\industrial collection\jail\jail_gloss.dds
+entitybank\industrial collection\jail\jail_mask.dds
+entitybank\industrial collection\jail\jail_ao.dds
+entitybank\industrial collection\jail\jail_height.dds
+entitybank\industrial collection\jail\jail_detail.dds
+entitybank\industrial collection\jail\jail_surface.dds
+entitybank\industrial collection\jail\jail_emissive.dds
+entitybank\industrial collection\jail\jail_illumination.dds
+entitybank\industrial collection\jail\jail_illum.dds
+entitybank\industrial collection\jail\jail_i.dds
+entitybank\industrial collection\jail\jail_cube.dds
+entitybank\industrial collection\jail\jail - cell door.fpe
+entitybank\industrial collection\jail\jail - cell door.dbo
+scriptbank\objects\door_rotate.lua
+scriptbank\objects\door_rotate.byc
+scriptbank\quatlib.lua
+scriptbank\navmeshlib.lua
+entitybank\industrial collection\trash\large skip.fpe
+entitybank\industrial collection\trash\large skip.dbo
+entitybank\industrial collection\trash\large skip_color.dds
+entitybank\industrial collection\trash\large skip_normal.dds
+entitybank\industrial collection\trash\large skip_metalness.dds
+entitybank\industrial collection\trash\large skip_gloss.dds
+entitybank\industrial collection\trash\large skip_ao.dds
+entitybank\industrial collection\trash\large skip_illumination.dds
+entitybank\industrial collection\trash\large skip_surface.dds
+entitybank\industrial collection\trash\large skip.bullet
+entitybank\industrial collection\trash\large skip_albedo.dds
+entitybank\industrial collection\trash\large skip_specular.dds
+entitybank\industrial collection\trash\large skip_mask.dds
+entitybank\industrial collection\trash\large skip_height.dds
+entitybank\industrial collection\trash\large skip_detail.dds
+entitybank\industrial collection\trash\large skip_emissive.dds
+entitybank\industrial collection\trash\large skip_illum.dds
+entitybank\industrial collection\trash\large skip_i.dds
+entitybank\industrial collection\trash\large skip_cube.dds
+entitybank\max collection\keys\modern key - silver.fpe
+entitybank\max collection\keys\modern key.dbo
+entitybank\max collection\keys\
+entitybank\max collection\keys\modern key silver_color.dds
+entitybank\max collection\keys\modern key silver_albedo.dds
+entitybank\max collection\keys\modern key silver_normal.dds
+entitybank\max collection\keys\modern key silver_specular.dds
+entitybank\max collection\keys\modern key silver_metalness.dds
+entitybank\max collection\keys\modern key silver_gloss.dds
+entitybank\max collection\keys\modern key silver_mask.dds
+entitybank\max collection\keys\modern key silver_ao.dds
+entitybank\max collection\keys\modern key silver_height.dds
+entitybank\max collection\keys\modern key silver_detail.dds
+entitybank\max collection\keys\modern key silver_surface.dds
+entitybank\max collection\keys\modern key silver_emissive.dds
+entitybank\max collection\keys\modern key silver_illumination.dds
+entitybank\max collection\keys\modern key silver_illum.dds
+entitybank\max collection\keys\modern key silver_i.dds
+entitybank\max collection\keys\modern key silver_cube.dds
+scriptbank\rpg\key.lua
+scriptbank\rpg\key.byc
+audiobank\misc\key.wav
+audiobank\misc\key.lip
+entitybank\industrial collection\industrial\pallet truck.fpe
+entitybank\industrial collection\industrial\pallet truck.dbo
+entitybank\industrial collection\industrial\pallet truck_color.dds
+entitybank\industrial collection\industrial\pallet truck_normal.dds
+entitybank\industrial collection\industrial\pallet truck_metalness.dds
+entitybank\industrial collection\industrial\pallet truck_gloss.dds
+entitybank\industrial collection\industrial\pallet truck_ao.dds
+entitybank\industrial collection\industrial\pallet truck_illumination.dds
+entitybank\industrial collection\industrial\pallet truck_surface.dds
+entitybank\industrial collection\industrial\pallet truck_albedo.dds
+entitybank\industrial collection\industrial\pallet truck_specular.dds
+entitybank\industrial collection\industrial\pallet truck_mask.dds
+entitybank\industrial collection\industrial\pallet truck_height.dds
+entitybank\industrial collection\industrial\pallet truck_detail.dds
+entitybank\industrial collection\industrial\pallet truck_emissive.dds
+entitybank\industrial collection\industrial\pallet truck_illum.dds
+entitybank\industrial collection\industrial\pallet truck_i.dds
+entitybank\industrial collection\industrial\pallet truck_cube.dds
+entitybank\industrial collection\boxes\square strapped crate.fpe
+entitybank\industrial collection\boxes\square strapped crate.dbo
+entitybank\industrial collection\boxes\square strapped crate_color.dds
+entitybank\industrial collection\boxes\square strapped crate_normal.dds
+entitybank\industrial collection\boxes\square strapped crate_metalness.dds
+entitybank\industrial collection\boxes\square strapped crate_gloss.dds
+entitybank\industrial collection\boxes\square strapped crate_ao.dds
+entitybank\industrial collection\boxes\square strapped crate_illumination.dds
+entitybank\industrial collection\boxes\square strapped crate_surface.dds
+entitybank\industrial collection\boxes\
+entitybank\industrial collection\boxes\square strapped crate_albedo.dds
+entitybank\industrial collection\boxes\square strapped crate_specular.dds
+entitybank\industrial collection\boxes\square strapped crate_mask.dds
+entitybank\industrial collection\boxes\square strapped crate_height.dds
+entitybank\industrial collection\boxes\square strapped crate_detail.dds
+entitybank\industrial collection\boxes\square strapped crate_emissive.dds
+entitybank\industrial collection\boxes\square strapped crate_illum.dds
+entitybank\industrial collection\boxes\square strapped crate_i.dds
+entitybank\industrial collection\boxes\square strapped crate_cube.dds
+entitybank\max collection\vegetation\bushes\bush - style e.fpe
+entitybank\max collection\vegetation\bushes\bush - style e.dbo
+entitybank\max collection\vegetation\bushes\bush_var5_color.dds
+entitybank\max collection\vegetation\bushes\bush_var5_normal.dds
+entitybank\max collection\vegetation\bushes\bush_var5_metalness.dds
+entitybank\max collection\vegetation\bushes\bush_var5_gloss.dds
+entitybank\max collection\vegetation\bushes\bush_var5_ao.dds
+entitybank\max collection\vegetation\bushes\bush_var5_illumination.dds
+entitybank\max collection\vegetation\bushes\bush_var5_surface.dds
+entitybank\max collection\vegetation\bushes\
+audiobank\misc\weapon.wav
+audiobank\misc\weapon.lip
+entitybank\max collection\tools\shovel.fpe
+gamecore\guns\tools\shovel\shovel.dbo
+gamecore\guns\tools\shovel\weapon_color.dds
+gamecore\guns\tools\shovel\weapon_albedo.dds
+gamecore\guns\tools\shovel\weapon_normal.dds
+gamecore\guns\tools\shovel\weapon_specular.dds
+gamecore\guns\tools\shovel\weapon_metalness.dds
+gamecore\guns\tools\shovel\weapon_gloss.dds
+gamecore\guns\tools\shovel\weapon_mask.dds
+gamecore\guns\tools\shovel\weapon_ao.dds
+gamecore\guns\tools\shovel\weapon_height.dds
+gamecore\guns\tools\shovel\weapon_detail.dds
+gamecore\guns\tools\shovel\weapon_surface.dds
+gamecore\guns\tools\shovel\weapon_emissive.dds
+gamecore\guns\tools\shovel\weapon_illumination.dds
+gamecore\guns\tools\shovel\weapon_illum.dds
+gamecore\guns\tools\shovel\weapon_i.dds
+gamecore\guns\tools\shovel\weapon_cube.dds
+scriptbank\weapon.lua
+scriptbank\weapon.byc
+gamecore\guns\tools\shovel\arms_color.dds
+gamecore\guns\tools\shovel\arms_normal.dds
+gamecore\guns\tools\shovel\arms_surface.dds
+gamecore\guns\tools\shovel\fire.ogg
+gamecore\guns\tools\shovel\gunspec.txt
+gamecore\guns\tools\shovel\hud.dbo
+gamecore\guns\tools\shovel\icon.png
+gamecore\guns\tools\shovel\put_away.ogg
+
+gamecore\guns\tools\shovel\shovel_color.dds
+gamecore\guns\tools\shovel\shovel_normal.dds
+gamecore\guns\tools\shovel\shovel_surface.dds
+gamecore\guns\tools\shovel\take_out.ogg
+gamecore\guns\tools\shovel\weapon.dbo
+
+entitybank\_markers\win.dds
+entitybank\_markers\win zone.fpe
+entitybank\_markers\win.dbo
+scriptbank\markers\winzone.lua
+scriptbank\markers\winzone.byc
+entitybank\max collection\tools\hammer.fpe
+gamecore\guns\tools\hammer\hammer.dbo
+gamecore\guns\tools\hammer\weapon_color.dds
+gamecore\guns\tools\hammer\weapon_albedo.dds
+gamecore\guns\tools\hammer\weapon_normal.dds
+gamecore\guns\tools\hammer\weapon_specular.dds
+gamecore\guns\tools\hammer\weapon_metalness.dds
+gamecore\guns\tools\hammer\weapon_gloss.dds
+gamecore\guns\tools\hammer\weapon_mask.dds
+gamecore\guns\tools\hammer\weapon_ao.dds
+gamecore\guns\tools\hammer\weapon_height.dds
+gamecore\guns\tools\hammer\weapon_detail.dds
+gamecore\guns\tools\hammer\weapon_surface.dds
+gamecore\guns\tools\hammer\weapon_emissive.dds
+gamecore\guns\tools\hammer\weapon_illumination.dds
+gamecore\guns\tools\hammer\weapon_illum.dds
+gamecore\guns\tools\hammer\weapon_i.dds
+gamecore\guns\tools\hammer\weapon_cube.dds
+gamecore\guns\tools\hammer\arms_color.dds
+gamecore\guns\tools\hammer\arms_normal.dds
+gamecore\guns\tools\hammer\arms_surface.dds
+gamecore\guns\tools\hammer\fire.ogg
+gamecore\guns\tools\hammer\gunspec.txt
+
+gamecore\guns\tools\hammer\hammer_color.dds
+gamecore\guns\tools\hammer\hammer_normal.dds
+gamecore\guns\tools\hammer\hammer_surface.dds
+gamecore\guns\tools\hammer\hud.dbo
+gamecore\guns\tools\hammer\icon.png
+gamecore\guns\tools\hammer\put_away.ogg
+gamecore\guns\tools\hammer\take_out.ogg
+gamecore\guns\tools\hammer\weapon.dbo
+
+entitybank\military collection\fences\wire\chainlink fence - dented.fpe
+entitybank\military collection\fences\wire\chainlink fence - dented.dbo
+entitybank\military collection\fences\wire\
+entitybank\military collection\fences\wire\chainlink fence-detail_color.dds
+entitybank\military collection\fences\wire\chainlink fence-detail_normal.dds
+entitybank\military collection\fences\wire\chainlink fence-detail_surface.dds
+entitybank\military collection\fences\wire\chainlink fence-fence_color.dds
+entitybank\military collection\fences\wire\chainlink fence-fence_normal.dds
+entitybank\military collection\fences\wire\chainlink fence-fence_surface.dds
+entitybank\military collection\fences\wire\chainlink fence-barb_color.dds
+entitybank\military collection\fences\wire\chainlink fence-barb_normal.dds
+entitybank\military collection\fences\wire\chainlink fence-barb_surface.dds
+entitybank\basement collection\doors\blue door - door.fpe
+entitybank\basement collection\doors\blue door - door.dbo
+entitybank\basement collection\doors\
+entitybank\basement collection\doors\blue door_color.dds
+entitybank\basement collection\doors\blue door_albedo.dds
+entitybank\basement collection\doors\blue door_normal.dds
+entitybank\basement collection\doors\blue door_specular.dds
+entitybank\basement collection\doors\blue door_metalness.dds
+entitybank\basement collection\doors\blue door_gloss.dds
+entitybank\basement collection\doors\blue door_mask.dds
+entitybank\basement collection\doors\blue door_ao.dds
+entitybank\basement collection\doors\blue door_height.dds
+entitybank\basement collection\doors\blue door_detail.dds
+entitybank\basement collection\doors\blue door_surface.dds
+entitybank\basement collection\doors\blue door_emissive.dds
+entitybank\basement collection\doors\blue door_illumination.dds
+entitybank\basement collection\doors\blue door_illum.dds
+entitybank\basement collection\doors\blue door_i.dds
+entitybank\basement collection\doors\blue door_cube.dds
+scriptbank\objects\destructible.lua
+scriptbank\objects\destructible.byc
+entitybank\max collection\tools\handsaw.fpe
+gamecore\guns\tools\handsaw\handsaw.dbo
+gamecore\guns\tools\handsaw\weapon_color.dds
+gamecore\guns\tools\handsaw\weapon_albedo.dds
+gamecore\guns\tools\handsaw\weapon_normal.dds
+gamecore\guns\tools\handsaw\weapon_specular.dds
+gamecore\guns\tools\handsaw\weapon_metalness.dds
+gamecore\guns\tools\handsaw\weapon_gloss.dds
+gamecore\guns\tools\handsaw\weapon_mask.dds
+gamecore\guns\tools\handsaw\weapon_ao.dds
+gamecore\guns\tools\handsaw\weapon_height.dds
+gamecore\guns\tools\handsaw\weapon_detail.dds
+gamecore\guns\tools\handsaw\weapon_surface.dds
+gamecore\guns\tools\handsaw\weapon_emissive.dds
+gamecore\guns\tools\handsaw\weapon_illumination.dds
+gamecore\guns\tools\handsaw\weapon_illum.dds
+gamecore\guns\tools\handsaw\weapon_i.dds
+gamecore\guns\tools\handsaw\weapon_cube.dds
+gamecore\guns\tools\handsaw\arms_color.dds
+gamecore\guns\tools\handsaw\arms_normal.dds
+gamecore\guns\tools\handsaw\arms_surface.dds
+gamecore\guns\tools\handsaw\fire.ogg
+gamecore\guns\tools\handsaw\gunspec.txt
+
+gamecore\guns\tools\handsaw\handsaw_color.dds
+gamecore\guns\tools\handsaw\handsaw_normal.dds
+gamecore\guns\tools\handsaw\handsaw_surface.dds
+gamecore\guns\tools\handsaw\hud.dbo
+gamecore\guns\tools\handsaw\icon.png
+gamecore\guns\tools\handsaw\put_away.ogg
+gamecore\guns\tools\handsaw\take_out.ogg
+gamecore\guns\tools\handsaw\weapon.dbo
+
+entitybank\industrial collection\barrels\bin empty.fpe
+entitybank\industrial collection\barrels\bin empty.dbo
+entitybank\industrial collection\barrels\bin empty_color.dds
+entitybank\industrial collection\barrels\bin empty_normal.dds
+entitybank\industrial collection\barrels\bin empty_metalness.dds
+entitybank\industrial collection\barrels\bin empty_gloss.dds
+entitybank\industrial collection\barrels\bin empty_ao.dds
+entitybank\industrial collection\barrels\bin empty_illumination.dds
+entitybank\industrial collection\barrels\bin empty_surface.dds
+entitybank\industrial collection\barrels\
+entitybank\industrial collection\barrels\bin empty_albedo.dds
+entitybank\industrial collection\barrels\bin empty_specular.dds
+entitybank\industrial collection\barrels\bin empty_mask.dds
+entitybank\industrial collection\barrels\bin empty_height.dds
+entitybank\industrial collection\barrels\bin empty_detail.dds
+entitybank\industrial collection\barrels\bin empty_emissive.dds
+entitybank\industrial collection\barrels\bin empty_illum.dds
+entitybank\industrial collection\barrels\bin empty_i.dds
+entitybank\industrial collection\barrels\bin empty_cube.dds
+audiobank\misc\ammo.lip
+charactercreatorplus\parts\zombie male\zombie male body 01_color.dds
+charactercreatorplus\parts\zombie male\zombie male body 01_normal.dds
+charactercreatorplus\parts\zombie male\zombie male body 01_surface.dds
+charactercreatorplus\parts\zombie male\zombie male head 06_color.dds
+charactercreatorplus\parts\zombie male\zombie male head 06_normal.dds
+charactercreatorplus\parts\zombie male\zombie male head 06_surface.dds
+charactercreatorplus\parts\zombie male\zombie male legs 03_color.dds
+charactercreatorplus\parts\zombie male\zombie male legs 03_normal.dds
+charactercreatorplus\parts\zombie male\zombie male legs 03_surface.dds
+charactercreatorplus\parts\zombie male\zombie male feet 01_color.dds
+charactercreatorplus\parts\zombie male\zombie male feet 01_normal.dds
+charactercreatorplus\parts\zombie male\zombie male feet 01_surface.dds
+entitybank\max collection\misc\themysteryofzisland\gross zombie.fpe
+entitybank\max collection\misc\themysteryofzisland\gross zombie.dbo
+entitybank\max collection\misc\themysteryofzisland\gross zombie0.dds
+entitybank\max collection\misc\themysteryofzisland\gross zombie1.dds
+entitybank\max collection\misc\themysteryofzisland\gross zombie2.dds
+effectbank\reloaded\apbr_animwithtran.fx
+scriptbank\people\zombie_attack.lua
+scriptbank\people\zombie_attack.byc
+scriptbank\masterinterpreter.lua
+audiobank\characters\zombie\zombiemunchratloop.wav
+audiobank\characters\zombie\zombieraisehead.wav
+audiobank\characters\zombie\zombielungealt.wav
+audiobank\characters\zombie\zombiedyingalt.wav
+audiobank\characters\zombie\zombiemunchratloop.lip
+audiobank\characters\zombie\zombieraisehead.lip
+audiobank\characters\zombie\zombielungealt.lip
+audiobank\characters\zombie\zombiedyingalt.lip
+
+
+
+
+
+
+levelbank\testmap\header.dat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
